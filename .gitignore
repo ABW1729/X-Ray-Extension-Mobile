@@ -1,0 +1,103 @@
+# Dart package configuration file
+.pub-cache
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated files
+.dart_tool/
+build/
+coverage/
+backend/ssd_mobilenet_v2_coco_2018_03_29
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+.packages
+.pub/
+pubspec.lock
+
+# Flutter specific
+flutter_*.png
+*.flutter-plugins-dependencies
+.flutter-plugins
+.flutter/
+.dart_tool/
+
+# Windows specific files
+*.exe
+*.dll
+*.pdb
+*.idb
+*.obj
+*.lib
+*.log
+*.exp
+
+# macOS specific files
+*.app
+*.dSYM
+
+# Linux specific files
+*.so
+
+# Web specific files
+web/main.dart.js
+web/main.dart.js.map
+
+# Symbol files
+*.swp
+
+# Ignore IntelliJ IDEA project files
+*.idea/
+*.iml
+
+# Visual Studio Code directory
+.vscode/
+
+# Android Studio files
+*.gradle
+*.idea/
+
+# Compiled output
+*.out/
+
+# Misc
+*~
+
+# Temp files
+*.tmp
+
+# App-specific
+app.apk
+app.aab
+app.dSYM.zip
+app.dSYM
+
+# Prevent committing built packages
+packages/
+
+# Extension flutter app specific ignores
+extension/.dart_tool/
+extension/build/
+extension/coverage/
+extension/.idea/
+extension/*.iml
+extension/.vscode/
+extension/.pub/
+extension/.flutter-plugins
+extension/.flutter-plugins-dependencies
+extension/.packages
+extension/pubspec.lock
+extension/flutter_*.png
+extension/.flutter/
